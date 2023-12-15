@@ -1,4 +1,5 @@
 # Ryujinx-Shortcut
+* The purpose of this project is to create windows executables to quickly launch switch games utilizing the Ryujinx emulator.
 
 ## File Tree
 * Here is what your directory should look like
