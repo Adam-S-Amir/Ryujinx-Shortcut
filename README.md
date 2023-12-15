@@ -11,10 +11,11 @@
     }
     "Game":{
         "Game.nsp"
-        "Ryujinx.exe"
     }
 }
 ```
+* Your ryujinx folder MUST be named _ryujinx (case sensitivity will vary depending on operating system)
+
 
 ## How to use:
 1.
@@ -44,7 +45,21 @@ start .
 ```
 
 6. Copy ryujinx.exe to the root of your switch game folder
-7. Enjoy!
+    * (optional) Change the file name "ryujinx.exe" you just built to something else      
+
+7. Your directory should look like afterwards
+```
+{
+    "_Ryujinx":{
+        "ryujinx.exe"
+    }
+    "Game":{
+        "Game.nsp"
+        "Game.exe"
+    }
+}
+```
+8. Enjoy!
 
 # TODO
 - [ ] Linux Support
