@@ -45,3 +45,8 @@ start .
 
 6. Copy ryujinx.exe to the root of your switch game folder
 7. Enjoy!
+
+# TODO
+- [ ] Linux Support
+- [ ] MacOS Support
+- [ ] Yuzu Support
