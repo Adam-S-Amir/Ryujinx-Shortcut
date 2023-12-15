@@ -1,0 +1,6 @@
+C:\trash\ryujinx\bin\Release\Launch Anything With C#.exe
+C:\trash\ryujinx\bin\Release\Launch Anything With C#.pdb
+C:\trash\ryujinx\obj\Release\ryujinx.csproj.AssemblyReference.cache
+C:\trash\ryujinx\obj\Release\ryujinx.csproj.CoreCompileInputs.cache
+C:\trash\ryujinx\obj\Release\Launch Anything With C#.exe
+C:\trash\ryujinx\obj\Release\Launch Anything With C#.pdb
